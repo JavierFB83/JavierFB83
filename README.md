@@ -1,6 +1,6 @@
 # Hi, I'm Javier Flores 👋
 
-**QA Automation Engineer at [Plytix](https://www.plytix.com) · Cypress Ambassador · Málaga, Spain**
+**QA Lead at [Plytix](https://www.plytix.com) · Cypress Ambassador · Málaga, Spain**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-javier--flores--borrego-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-flores-borrego)
 [![Cypress Ambassador](https://img.shields.io/badge/Cypress-Ambassador-69D3A7?logo=cypress&logoColor=white)](https://www.cypress.io/ambassadors)
